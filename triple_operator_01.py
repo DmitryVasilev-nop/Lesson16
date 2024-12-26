@@ -1,4 +1,5 @@
 import random
+
 numbers = []
 for i in range(100):
     numbers.append(random.randint(0, 50))
